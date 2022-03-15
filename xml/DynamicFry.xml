@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>DynamicFry</name>
-    <filename>/usr/share/backgrounds/Dynamic_Wallpapers/DynamicFry-1.png</filename>
-		<filename-dark>/usr/share/backgrounds/Dynamic_Wallpapers/DynamicFry-2.png</filename-dark>
+    <filename>/usr/share/backgrounds/Wallpapers/DynamicFry/DynamicFry-1.png</filename>
+    <filename-dark>/usr/share/backgrounds/Wallpapers/DynamicFry/DynamicFry-2.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
