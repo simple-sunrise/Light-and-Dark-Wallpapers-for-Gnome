@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>TheLake</name>
+    <filename>/usr/share/backgrounds/Wallpapers/TheLake/TheLake-1.jpg</filename>
+		<filename-dark>/usr/share/backgrounds/Wallpapers/TheLake/TheLake-2.jpg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3465a4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
