@@ -1,6 +1,35 @@
 <h1 align="center">Light and Dark Wallpapers for Gnome 42</h1>
 <img src=Previews/Settings.png >
-<!--## 🎨 Preview
+
+#### :gear: Installati##on:
+
+1. Open Terminal
+2. Run the following command:
+	```
+	curl -s "https://raw.githubusercontent.com/amro_solaiman/Light&DarkWallpapers4Gnome42/main/Easy_Install.sh" | sudo bash
+	```
+3. Change your wallpaper from: Settings > Backgrounds
+4. That's it. Enjoy! :tada:
+#### Recommended Gnome Extensions
+- [Night Theme Switcher](https://nightthemeswitcher.romainvigier.fr/)
+- [Blur my Shell](https://github.com/aunetx/blur-my-shell)
+
+#### :paintbrush: Wallpapers Authors:
+- Apple Inc.
+- Ubuntu
+- Gnome
+- lofigirl.com
+- Arseniy Chebynkin
+- Evgeniy Slushev
+- Louis Coyle
+- Microsoft
+- Updating...
+
+#### :memo: Notes
+- This work is inspired and intensely based on [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
+- This work is supported only on Gnome 42
+
+<!-- 🎨 Preview
 
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
@@ -14,17 +43,6 @@
 | 	   	              															        | 		     																     | 												 					     	             | 															     			 |
 -->
 
-## :gear: Installation:
-
-#### Method 1: Very easy, but time & data consuming :hourglass_flowing_sand:
-
-1. Open Terminal
-2. Run the following command:
-	```
-	curl -s "https://raw.githubusercontent.com/amro_solaiman/Light&DarkWallpapers4Gnome42/main/Easy_Install.sh" | sudo bash
-	```
-4. Change your wallpaper from: Settings > Backgrounds
-5. That's it. Enjoy! :tada:
 <!--
 #### Method 2: for *experts* but saves time and data :nerd_face:
 
@@ -94,8 +112,6 @@ Thanks goes to these wonderful people:
 
 -->
 
-## :memo: Notes
-- This work is inspired by [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
 
 
 <!--| 			   	              										        			| 			     															     | 															   	  			     | 																	         |
