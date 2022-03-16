@@ -1,7 +1,7 @@
 <h1 align="center">Light and Dark Wallpapers for Gnome 42</h1>
 <img src=Previews/Settings.png >
 
-#### :gear: Installati##on:
+#### :gear: Installation:
 
 1. Open Terminal
 2. Run the following command:
@@ -10,7 +10,7 @@
 	```
 3. Change your wallpaper from: Settings > Backgrounds
 4. That's it. Enjoy! :tada:
-#### Recommended Gnome Extensions
+#### :rocket: Recommended Gnome Extensions
 - [Night Theme Switcher](https://nightthemeswitcher.romainvigier.fr/)
 - [Blur my Shell](https://github.com/aunetx/blur-my-shell)
 
