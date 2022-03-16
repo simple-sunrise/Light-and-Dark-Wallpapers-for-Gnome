@@ -1,12 +1,12 @@
 <h1 align="center">Light and Dark Wallpapers for Gnome 42</h1>
-
-## 🎨 Preview
+<img src=Previews/Settings.png >
+<!--## 🎨 Preview
 
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | Dynamic Fry 	   	              															        | Riverside 		     																     | 												 					     	             | 															     			 |
 | <img src="Previews/DynamicFry.gif" width="128" height="80"> 	   	              															        | <img src="Previews/Riverside.gif" width="128" height="80"> 		     																     | 												 					     	             | 															     			 |
-
+-->
 <!--
 | 			   	              										        			| 			     															     | 															   	  			     | 																	         |
 | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
@@ -25,7 +25,7 @@
 	```
 4. Change your wallpaper from: Settings > Backgrounds
 5. That's it. Enjoy! :tada:
-
+<!--
 #### Method 2: for *experts* but saves time and data :nerd_face:
 
 1. Download package:
@@ -91,6 +91,8 @@ Thanks goes to these wonderful people:
 
 ## :radioactive: Notice:
 - If you don't want your device to be the source of humanity extinction, please do not use the 2static1dynamic.sh script without reading what does it contain. Please.
+
+-->
 
 ## :memo: Notes
 - This work is inspired by [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
