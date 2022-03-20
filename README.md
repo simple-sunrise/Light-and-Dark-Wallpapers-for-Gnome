@@ -3,12 +3,12 @@
 
 #### :gear: Installation:
 
-1. Open Terminal: **CTRL + ALT + T**
+1. Open Terminal: **ctrl + alt + T**
 2. Run the following command:
 	```
 	curl -s "https://raw.githubusercontent.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome-42/main/direct_install.sh" | sudo bash
 	```
-3. Change your wallpaper from: **Settings > Backgrounds**
+3. Change your wallpaper from: **Settings > Appearence**
 4. That's it. Enjoy! :tada:
 #### :rocket: Recommended Gnome Extensions
 - [Night Theme Switcher](https://nightthemeswitcher.romainvigier.fr/)
