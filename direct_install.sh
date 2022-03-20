@@ -33,7 +33,7 @@ fi
 echo "Installing wallpapers..."
 cp -r ./Wallpapers/ ~/.local/share/backgrounds/
 cp ./xml/* ~/.local/share/gnome-background-properties/
-echo "Dynamic Wallpapers has been installed!"
+echo "Wallpapers has been installed!"
 cd ~
 echo "Deleting files used only for the installation process"
 sudo rm -r Light-and-Dark-Wallpapers-for-Gnome-42
