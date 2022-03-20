@@ -18,7 +18,7 @@ then
 	echo "Setting up"
 fi
 
-if [[ ! -d ~/.local/share/backgrounds/Wallpapers ]]
+if [[ ! -d ~/.local/share/backgrounds/ ]]
 then
 	mkdir ~/.local/share/backgrounds/
 	echo "Backgrounds folder created"
@@ -27,6 +27,7 @@ fi
 if [[ ! -d ~/.local/share/gnome-background-properties/ ]]
 then
 	mkdir ~/.local/share/gnome-background-properties/
+	echo "gnome-background-properties folder created"
 fi
 
 echo "Installing wallpapers..."
