@@ -6,7 +6,7 @@
 1. Open Terminal: **ctrl + alt + T**
 2. Run the following command:
 	```
-	curl -s "https://raw.githubusercontent.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome-42/main/direct_install.sh" | sudo bash
+	curl -s "https://raw.githubusercontent.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome-42/main/direct_install.sh" | bash
 	```
 3. Change your wallpaper from: **Settings > Appearence**
 4. That's it. Enjoy! :tada:
