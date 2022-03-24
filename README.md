@@ -13,8 +13,8 @@
 | <img src=Previews/DesertValley.gif width=128 height=80> | <img src=Previews/Dome.gif width=128 height=80> | <img src=Previews/DynamicFry.gif width=128 height=80> | <img src=Previews/ExternalHimitsuHouse.gif width=128 height=80> | <img src=Previews/Firewatch.gif width=128 height=80> |
 | Firewatch2 | FocalFossa | Fuji | Globe | GroovyGorilla |
 | <img src=Previews/Firewatch2.gif width=128 height=80> | <img src=Previews/FocalFossa.gif width=128 height=80> | <img src=Previews/Fuji.gif width=128 height=80> | <img src=Previews/Globe.gif width=128 height=80> | <img src=Previews/GroovyGorilla.gif width=128 height=80> |
-| HimitsuHouse | HirsuitHippo | HirsuitHippoBlue | KagomeRoom | Lakeside | 
-| <img src=Previews/HimitsuHouse.gif width=128 height=80> | <img src=Previews/HirsuitHippo.gif width=128 height=80> | <img src=Previews/HirsuitHippoBlue.gif width=128 height=80> | <img src=Previews/KagomeRoom.gif width=128 height=80> | <img src=Previews/Lakeside.gif width=128 height=80> |
+| HimitsuHouse | HirsuitHippo | HirsuteHippoBlue | KagomeRoom | Lakeside | 
+| <img src=Previews/HimitsuHouse.gif width=128 height=80> | <img src=Previews/HirsuitHippo.gif width=128 height=80> | <img src=Previews/HirsuteHippoBlue.gif width=128 height=80> | <img src=Previews/KagomeRoom.gif width=128 height=80> | <img src=Previews/Lakeside.gif width=128 height=80> |
 | LakesideDeer | LakeTheCliff | LofiALex | LofiDino | LofiGirl |
 | <img src=Previews/LakesideDeer.gif width=128 height=80> | <img src=Previews/LakeTheCliff.gif width=128 height=80> | <img src=Previews/LofiALex.gif width=128 height=80> | <img src=Previews/LofiDino.gif width=128 height=80> | <img src=Previews/LofiGirl.gif width=128 height=80> |
 | MaterialMountains | MinimalMojave | Mojave | Monterey | PlasticBeach | 
