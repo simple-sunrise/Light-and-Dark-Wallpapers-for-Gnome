@@ -1,6 +1,31 @@
 <h1 align="center">Light and Dark Wallpapers for Gnome 42</h1>
 <img src=Previews/Settings.png >
 
+#### :art: Preview
+
+| AnimeRoom | Aura | Carvan | CatherineRoom | Coast | 
+| <img src=Previews/AnimeRoom.gif width=128 height=80> | <img src=Previews/Aura.gif width=128 height=80> | <img src=Previews/Carvan.gif width=128 height=80> | <img src=Previews/CatherineRoom.gif width=128 height=80> | <img src=Previews/Coast.gif width=128 height=80> |
+| CorporationHall | CorporationStreet | DesertPeak | DesertSands | DesertTree |
+| <img src=Previews/CorporationHall.gif width=128 height=80> | <img src=Previews/CorporationStreet.gif width=128 height=80> | <img src=Previews/DesertPeak.gif width=128 height=80> | <img src=Previews/DesertSands.gif width=128 height=80> | <img src=Previews/DesertTree.gif width=128 height=80> |
+| DesertValley | Dome | DynamicFry | ExternalHimitsuHouse | Firewatch |
+| <img src=Previews/DesertValley.gif width=128 height=80> | <img src=Previews/Dome.gif width=128 height=80> | <img src=Previews/DynamicFry.gif width=128 height=80> | <img src=Previews/ExternalHimitsuHouse.gif width=128 height=80> | <img src=Previews/Firewatch.gif width=128 height=80> |
+| Firewatch2 | FocalFossa | Fuji | Globe | GroovyGorilla |
+| <img src=Previews/Firewatch2.gif width=128 height=80> | <img src=Previews/FocalFossa.gif width=128 height=80> | <img src=Previews/Fuji.gif width=128 height=80> | <img src=Previews/Globe.gif width=128 height=80> | <img src=Previews/GroovyGorilla.gif width=128 height=80> |
+| HimitsuHouse | HirsuitHippo | HirsuitHippoBlue | KagomeRoom | Lakeside | 
+| <img src=Previews/HimitsuHouse.gif width=128 height=80> | <img src=Previews/HirsuitHippo.gif width=128 height=80> | <img src=Previews/HirsuitHippoBlue.gif width=128 height=80> | <img src=Previews/KagomeRoom.gif width=128 height=80> | <img src=Previews/Lakeside.gif width=128 height=80> |
+| LakesideDeer | LakeTheCliff | LofiALex | LofiDino | LofiGirl |
+| <img src=Previews/LakesideDeer.gif width=128 height=80> | <img src=Previews/LakeTheCliff.gif width=128 height=80> | <img src=Previews/LofiALex.gif width=128 height=80> | <img src=Previews/LofiDino.gif width=128 height=80> | <img src=Previews/LofiGirl.gif width=128 height=80> |
+| MaterialMountains | MinimalMojave | Mojave | Monterey | PlasticBeach | 
+| <img src=Previews/MaterialMountains.gif width=128 height=80> | <img src=Previews/MinimalMojave.gif width=128 height=80> | <img src=Previews/Mojave.gif width=128 height=80> | <img src=Previews/Monterey.gif width=128 height=80> | <img src=Previews/PlasticBeach.gif width=128 height=80> |
+| Riverside | Rock | Rocknegy | Rockscketto | StevenUniverse |
+| <img src=Previews/Riverside.gif width=128 height=80> | <img src=Previews/Rock.gif width=128 height=80> | <img src=Previews/Rocknegy.gif width=128 height=80> | <img src=Previews/Rockscketto.gif width=128 height=80> | <img src=Previews/StevenUniverse.gif width=128 height=80> |
+| TheBeach | TheDesert | TheLake | TokyoStreet | Viragegy |
+| <img src=Previews/TheBeach.gif width=128 height=80> | <img src=Previews/TheDesert.gif width=128 height=80> | <img src=Previews/TheLake.gif width=128 height=80> | <img src=Previews/TokyoStreet.gif width=128 height=80> | <img src=Previews/Viragegy.gif width=128 height=80> |
+| Viragharom | Viragnegy | Win11Lake | Windows111 | Windows112 |
+| <img src=Previews/Viragharom.gif width=128 height=80> | <img src=Previews/Viragnegy.gif width=128 height=80> | <img src=Previews/Win11Lake.gif width=128 height=80> | <img src=Previews/Windows111.gif width=128 height=80> | <img src=Previews/Windows112.gif width=128 height=80> |
+| Windows113 | Wiravketto |
+| <img src=Previews/Windows113.gif width=128 height=80> | <img src=Previews/Wiravketto.gif width=128 height=80> |
+
 #### :gear: Installation:
 
 1. Open Terminal: **ctrl + alt + T**
