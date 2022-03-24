@@ -3,8 +3,8 @@
 
 #### :art: Preview
 
-| 			   	              										        			| 			     															     | 															   	  			     | 																	         |  |  |
-| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------:  | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: |
 | AnimeRoom | Aura | Carvan | CatherineRoom | Coast | 
 | <img src=Previews/AnimeRoom.gif width=128 height=80> | <img src=Previews/Aura.gif width=128 height=80> | <img src=Previews/Carvan.gif width=128 height=80> | <img src=Previews/CatherineRoom.gif width=128 height=80> | <img src=Previews/Coast.gif width=128 height=80> |
 | CorporationHall | CorporationStreet | DesertPeak | DesertSands | DesertTree |
