@@ -57,10 +57,13 @@
 #### :memo: To do list:
 - [ ] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
+- [ ] Make README.md previews lighter 
 
 #### :memo: Notes
 - This work is inspired and intensely based on [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
 - This work is supported only on Gnome 42
+- ***Suggestions for improvements and Pull Requests are warmly welcome!***
 
 #### :link: Linked projects
 - [Linux Dynamic Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
+
