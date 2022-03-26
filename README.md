@@ -55,6 +55,7 @@
 #### :memo: To do list:
 - [ ] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
+- [ ] Make README.md previews lighter 
 
 #### :memo: Notes
 - This work is inspired and intensely based on [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
