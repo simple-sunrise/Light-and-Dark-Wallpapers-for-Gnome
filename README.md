@@ -27,8 +27,8 @@
 | <img src=Previews/Viragharom.gif width=128 height=80> | <img src=Previews/Viragnegy.gif width=128 height=80> | <img src=Previews/Win11Lake.gif width=128 height=80> | <img src=Previews/Windows111.gif width=128 height=80> | <img src=Previews/Windows112.gif width=128 height=80> |
 | Windows113 | Wiravketto | LofiCity | Hills | ChromeOSEarth |
 | <img src=Previews/Windows113.gif width=128 height=80> | <img src=Previews/Wiravketto.gif width=128 height=80> | <img src=Previews/LofiCity.gif width=128 height=80> | <img src=Previews/Hills.gif width=128 height=80> | <img src=Previews/ChromeOSEarth.gif width=128 height=80> |
-| DeadTree |
-| <img src=Previews/DeadTree.gif width=128 height=80> |
+| DeadTree | MountainsIsland |
+| <img src=Previews/DeadTree.gif width=128 height=80> | <img src=Previews/MountainsIsland.gif width=128 height=80> |
 
 #### :gear: Installation:
 
@@ -57,7 +57,7 @@
 #### :memo: To do list:
 - [ ] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
-- [ ] Make README.md previews lighter 
+- [ ] Make README.md previews lighter
 
 #### :memo: Notes
 - This work is inspired and intensely based on [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
@@ -67,3 +67,8 @@
 #### :link: Linked projects
 - [Linux Dynamic Wallpapers](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
 
+
+#### :calendar: Changelog
+***27/03/2022***
+- Add MountainsIsland
+- Fix Rocknegy
