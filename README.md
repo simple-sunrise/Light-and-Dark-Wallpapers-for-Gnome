@@ -27,8 +27,8 @@
 | <img src=Previews/Viragharom.gif width=128 height=80> | <img src=Previews/Viragnegy.gif width=128 height=80> | <img src=Previews/Win11Lake.gif width=128 height=80> | <img src=Previews/Windows111.gif width=128 height=80> | <img src=Previews/Windows112.gif width=128 height=80> |
 | Windows113 | Wiravketto | LofiCity | Hills | ChromeOSEarth |
 | <img src=Previews/Windows113.gif width=128 height=80> | <img src=Previews/Wiravketto.gif width=128 height=80> | <img src=Previews/LofiCity.gif width=128 height=80> | <img src=Previews/Hills.gif width=128 height=80> | <img src=Previews/ChromeOSEarth.gif width=128 height=80> |
-| DeadTree | MountainsIsland |
-| <img src=Previews/DeadTree.gif width=128 height=80> | <img src=Previews/MountainsIsland.gif width=128 height=80> |
+| DeadTree | MountainsIsland | ChromeOSFire |
+| <img src=Previews/DeadTree.gif width=128 height=80> | <img src=Previews/MountainsIsland.gif width=128 height=80> | <img src=Previews/ChromeOSFire.gif width=128 height=80> |
 
 #### :gear: Installation:
 
@@ -71,4 +71,5 @@
 #### :calendar: Changelog
 ***27/03/2022***
 - Add MountainsIsland
+- Add ChromeOSFire
 - Fix Rocknegy
