@@ -27,12 +27,18 @@
 | <img src=Previews/Viragharom.gif width=128 height=80> | <img src=Previews/Viragnegy.gif width=128 height=80> | <img src=Previews/Win11Lake.gif width=128 height=80> | <img src=Previews/Windows111.gif width=128 height=80> | <img src=Previews/Windows112.gif width=128 height=80> |
 | Windows113 | Wiravketto | LofiCity | Hills | ChromeOSEarth |
 | <img src=Previews/Windows113.gif width=128 height=80> | <img src=Previews/Wiravketto.gif width=128 height=80> | <img src=Previews/LofiCity.gif width=128 height=80> | <img src=Previews/Hills.gif width=128 height=80> | <img src=Previews/ChromeOSEarth.gif width=128 height=80> |
-| DeadTree | MountainsIsland | ChromeOSFire |
-| <img src=Previews/DeadTree.gif width=128 height=80> | <img src=Previews/MountainsIsland.gif width=128 height=80> | <img src=Previews/ChromeOSFire.gif width=128 height=80> |
+| DeadTree | MountainsIsland | ChromeOSFire | Solitude | Ocean |
+| <img src=Previews/DeadTree.gif width=128 height=80> | <img src=Previews/MountainsIsland.gif width=128 height=80> | <img src=Previews/ChromeOSFire.gif width=128 height=80> | <img src=Previews/Solitude.gif width=128 height=80> | <img src=Previews/Ocean.gif width=128 height=80> |
+| ChromeOSBlues | ChromeOSGreens | ChromeOSEarth | WaterHill | SolidDesert |
+| <img src=Previews/ChromeOSBlues.gif width=128 height=80> | <img src=Previews/ChromeOSGreens.gif width=128 height=80> | <img src=Previews/ChromeOSEarth.gif width=128 height=80> | <img src=Previews/WaterHill.gif width=128 height=80> | <img src=Previews/SolidDesert.gif width=128 height=80> |
+| ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows | SolidIsland |
+| <img src=Previews/ChromeOSWind.gif width=128 height=80> | <img src=Previews/ChromeOSWater.gif width=128 height=80> | <img src=Previews/SolidForest.gif width=128 height=80> | <img src=Previews/ChromeOSYellows.gif width=128 height=80> | <img src=Previews/SolidIsland.gif width=128 height=80> |
+| SolidMountain | Plateau | FluidifiedST | LofiAlexandra |
+| <img src=Previews/SolidMountain.gif width=128 height=80> | <img src=Previews/Plateau.gif width=128 height=80> | <img src=Previews/FluidifiedST.gif width=128 height=80> | <img src=Previews/LofiAlexandra.gif width=128 height=80>
 
 #### :gear: Installation:
 
-1. Open Terminal: **ctrl + alt + T**
+1. Open Terminal
 2. Run the following command:
 	```
 	curl -s "https://raw.githubusercontent.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome-42/main/direct_install.sh" | bash
@@ -54,8 +60,8 @@
 - Microsoft
 - Updating...
 
-#### :memo: To do list:
-- [ ] Add a changelog list for each time a new wallpaper gets added
+#### :pencil: To do list:
+- [x ] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
 - [ ] Make README.md previews lighter
 
@@ -69,7 +75,25 @@
 
 
 #### :calendar: Changelog
-***27/03/2022***
-- Add MountainsIsland
-- Add ChromeOSFire
-- Fix Rocknegy
+ - **27/03/2022**
+  - Add MountainsIsland
+  - Add ChromeOSFire
+  - Fix Rocknegy
+ - **28/03/2022**
+	- Add Solitude
+	- Add Ocean
+	- Add ChromeOSBlues
+	- Add ChromeOSGreens
+	- Add ChromeOSEarth
+	- Add ChromeOSReds
+	- Add WaterHill
+	- Add SolidDesert
+	- Add ChromeOSWind
+	- Add ChromeOSWater
+	- Add SolidForest
+	- Add ChromeOSYellows
+	- Add LofiAlexandra
+	- Add SolidIsland
+	- Add SolidMountain
+	- Add Plateau
+	- Add FluidifiedST
