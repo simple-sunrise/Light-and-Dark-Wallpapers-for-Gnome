@@ -61,7 +61,7 @@
 - Updating...
 
 #### :pencil: To do list:
-- [x ] Add a changelog list for each time a new wallpaper gets added
+- [x] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
 - [ ] Make README.md previews lighter
 
