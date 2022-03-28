@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>ChromeOSEarth</name>
-    <filename>/usr/share/backgrounds/Wallpapers/ChromeOSEarth/ChromeOSEarth-1.png</filename>
-		<filename-dark>/usr/share/backgrounds/Wallpapers/ChromeOSEarth/ChromeOSEarth-2.png</filename-dark>
+    <filename>//home/sense/.local/share/backgrounds/Wallpapers/ChromeOSEarth/ChromeOSEarth-1.png</filename>
+		<filename-dark>//home/sense/.local/share/backgrounds/Wallpapers/ChromeOSEarth/ChromeOSEarth-2.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
