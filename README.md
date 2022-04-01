@@ -33,8 +33,8 @@
 | <img src=Previews/ChromeOSBlues.gif width=128 height=80> | <img src=Previews/ChromeOSGreens.gif width=128 height=80> | <img src=Previews/ChromeOSEarth.gif width=128 height=80> | <img src=Previews/WaterHill.gif width=128 height=80> | <img src=Previews/SolidDesert.gif width=128 height=80> |
 | ChromeOSWind | ChromeOSWater | SolidForest | ChromeOSYellows | SolidIsland |
 | <img src=Previews/ChromeOSWind.gif width=128 height=80> | <img src=Previews/ChromeOSWater.gif width=128 height=80> | <img src=Previews/SolidForest.gif width=128 height=80> | <img src=Previews/ChromeOSYellows.gif width=128 height=80> | <img src=Previews/SolidIsland.gif width=128 height=80> |
-| SolidMountain | Plateau | FluidifiedST | LofiAlexandra |
-| <img src=Previews/SolidMountain.gif width=128 height=80> | <img src=Previews/Plateau.gif width=128 height=80> | <img src=Previews/FluidifiedST.gif width=128 height=80> | <img src=Previews/LofiAlexandra.gif width=128 height=80>
+| SolidMountain | Plateau | FluidifiedST | LofiAlexandra | StepbyStep |
+| <img src=Previews/SolidMountain.gif width=128 height=80> | <img src=Previews/Plateau.gif width=128 height=80> | <img src=Previews/FluidifiedST.gif width=128 height=80> | <img src=Previews/LofiAlexandra.gif width=128 height=80> | <img src=Previews/StepbyStep.gif width=128 height=80> |
 
 #### :gear: Installation:
 
@@ -61,7 +61,7 @@
 - Updating...
 
 #### :pencil: To do list:
-- [x ] Add a changelog list for each time a new wallpaper gets added
+- [x] Add a changelog list for each time a new wallpaper gets added
 - [ ] Add a non-consuming data method for fetching new wallpapers
 - [ ] Make README.md previews lighter
 
@@ -97,3 +97,5 @@
 	- Add SolidMountain
 	- Add Plateau
 	- Add FluidifiedST
+ - **01/04/2022**
+	- Add StepbyStep
