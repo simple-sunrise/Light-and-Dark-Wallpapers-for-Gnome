@@ -76,9 +76,9 @@
 
 #### :calendar: Changelog
  - **27/03/2022**
-  - Add MountainsIsland
-  - Add ChromeOSFire
-  - Fix Rocknegy
+  	- Add MountainsIsland
+  	- Add ChromeOSFire
+  	- Fix Rocknegy
  - **28/03/2022**
 	- Add Solitude
 	- Add Ocean
