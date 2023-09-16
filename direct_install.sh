@@ -1,8 +1,8 @@
 #!/bin/bash
 cd ~
 echo "Downloading needed files started"
-git clone https://github.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome-42.git
-cd Light-and-Dark-Wallpapers-for-Gnome-42
+git clone https://github.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome.git
+cd Light-and-Dark-Wallpapers-for-Gnome
 echo "Files downloaded"
 echo "Preparing .xml files"
 for file in xml/*.xml
@@ -36,7 +36,7 @@ cp ./xml/* ~/.local/share/gnome-background-properties/
 echo "Wallpapers has been installed!"
 cd ~
 echo "Deleting files used only for the installation process"
-rm -r Light-and-Dark-Wallpapers-for-Gnome-42
+rm -r Light-and-Dark-Wallpapers-for-Gnome
 echo "    |"
 echo "    '---> Deleted unneeded files!"
 echo "Now, don't forget to set your preferred dynamic wallpaper from Settings!"
