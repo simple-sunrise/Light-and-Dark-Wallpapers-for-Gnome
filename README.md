@@ -46,7 +46,6 @@
 3. Change your wallpaper from: **Settings > Appearence**
 4. That's it. Enjoy! :tada:
 #### :rocket: Recommended Gnome Extensions
-- [Night Theme Switcher](https://nightthemeswitcher.romainvigier.fr/)
 - [Blur my Shell](https://github.com/aunetx/blur-my-shell)
 
 #### :paintbrush: Wallpapers Authors:
