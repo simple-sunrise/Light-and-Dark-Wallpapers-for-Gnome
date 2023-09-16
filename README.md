@@ -1,4 +1,4 @@
-<h1 align="center">Light and Dark Wallpapers for Gnome 42</h1>
+<h1 align="center">Light and Dark Wallpapers for Gnome 42 - 43 - 44</h1>
 <img src=Previews/Settings.png >
 
 #### :art: Preview
@@ -67,7 +67,7 @@
 
 #### :memo: Notes
 - This work is inspired and intensely based on [saint-13 project](https://github.com/saint-13/Linux_Dynamic_Wallpapers)
-- This work is supported only on Gnome 42
+- This work is supported on Gnome 42 - 43 - 44
 - ***Suggestions for improvements and Pull Requests are warmly welcome!***
 
 #### :link: Linked projects
@@ -75,6 +75,9 @@
 
 
 #### :calendar: Changelog
+ - **16/09/2023**
+   	- One year later, a lot of things has changed in this world, and also the compatibility of this project.
+   	  <br>Now compatible with Gnome 42 - 43 - 44
  - **27/03/2022**
   	- Add MountainsIsland
   	- Add ChromeOSFire
