@@ -1,7 +1,7 @@
 #!/bin/bash
 cd ~
 echo "Downloading needed files started"
-git clone https://github.com/amrosolaiman/Light-and-Dark-Wallpapers-for-Gnome.git
+git clone https://github.com/simple-sunrise/Light-and-Dark-Wallpapers-for-Gnome.git
 cd Light-and-Dark-Wallpapers-for-Gnome
 echo "Files downloaded"
 echo "Preparing .xml files"
